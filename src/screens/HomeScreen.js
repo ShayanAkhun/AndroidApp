@@ -25,7 +25,7 @@ export const HomeScreen = ({navigation}) => {
         <TouchableOpacity
         
           style={styles.signInBtntext}
-          onPress={() => navigation.navigate('DashBoard')}>
+          onPress={() => navigation.navigate('AppStack')}>
           <Text style={styles.innerBtntext}>Let's Begin</Text>
            <Icon name="arrow-forward" size={30} />
         </TouchableOpacity>

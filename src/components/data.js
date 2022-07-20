@@ -35,6 +35,20 @@ export const sliderData = [
       price: 'US$329.99',
       id: '3',
     },
+    {
+      poster: require('../assets/Coursel/PaidProducts/4.jpg'),
+      title: 'RAZER KISHI V2',
+      subtitle: 'MOBILE GAMING REIMAGINED',
+      price: 'US$99.99',
+      id: '4',
+    },
+    {
+      poster: require('../assets/Coursel/PaidProducts/5.jpg'),
+      title: 'SONIC THE HEDGEHOG',
+      subtitle: 'LIMITED EDITION CONTROLLER',
+      price: 'US$199.99',
+      id: '5',
+    },
   ]
   export const freeGames = [
     {
@@ -57,6 +71,20 @@ export const sliderData = [
       subtitle: 'FEEL THE DIFFERENCE UNLEASHED.',
       price: 'BUY',
       id: '3',
+    },
+    {
+      poster: require('../assets/Coursel/FreeProducts/4.png'),
+      title: 'RAZER KRAKEN KITTY ',
+      subtitle: 'QUARTZ.',
+      price: 'BUY',
+      id: '4',
+    },
+    {
+      poster: require('../assets/Coursel/FreeProducts/5.jpg'),
+      title: 'RAZER LEVIATHAN V2 ',
+      subtitle: 'ILLUMINATE YOUR SOUND',
+      price: 'BUY',
+      id: '5',
     },
   ];
   
