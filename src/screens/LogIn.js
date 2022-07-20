@@ -59,7 +59,7 @@ export const LogIn = ({navigation}) => {
             </View>
             <TouchableOpacity>
               <Text style={styles.registerButton}
-               onPress={() => navigation.navigate('SignIn')}
+               onPress={() => navigation.navigate('SignUp')}
                >REGISTER A NEW ACCOUNT</Text>
             </TouchableOpacity>
           </View>

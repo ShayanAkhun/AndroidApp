@@ -64,7 +64,7 @@ export const SignUp = ({navigation}) => {
               <Icon name="md-logo-twitch" size={30} />
             </View>
             <TouchableOpacity>
-              <Text style={styles.registerButton} onPress={() => navigation.navigate('SignInScreen')}
+              <Text style={styles.registerButton} onPress={() => navigation.navigate('LogIn')}
               >ALREADY HAVE AN ACCOUNT</Text>
             </TouchableOpacity>
           </View>
